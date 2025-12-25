@@ -1,0 +1,10 @@
+Dec 24 10:00:01 server sshd[123]: Failed password for invalid user admin from 192.168.1.100 port 22 ssh2
+Dec 24 10:00:02 server sshd[123]: Failed password for invalid user admin from 192.168.1.100 port 22 ssh2
+Dec 24 10:00:03 server sshd[123]: Failed password for invalid user admin from 192.168.1.100 port 22 ssh2
+Dec 24 10:00:04 server sshd[123]: Failed password for invalid user admin from 192.168.1.100 port 22 ssh2
+Dec 24 10:00:05 server sshd[123]: Failed password for invalid user admin from 192.168.1.100 port 22 ssh2
+Dec 24 10:00:06 server sshd[123]: Failed password for invalid user admin from 192.168.1.100 port 22 ssh2
+Dec 24 10:05:00 server sshd[124]: Accepted password for user1 from 192.168.1.101 port 22 ssh2
+Dec 24 10:06:01 server sshd[125]: Failed password for user1 from 192.168.1.102 port 22 ssh2
+Dec 24 10:06:02 server sshd[125]: Failed password for user1 from 192.168.1.102 port 22 ssh2
+Dec 24 10:06:03 server sshd[125]: Failed password for user1 from 192.168.1.102 port 22 ssh2

@@ -8,6 +8,7 @@ This project was built using an **Agentic Workflow**, serving as a case study in
 - [📔 Architect's Journal](notes/architect_journal.md): Key technical decisions and personal reflections.
 - [🗺️ Project Timeline](notes/agent_notes.md): From inception to "Senior-Level" hardening.
 - [💬 Interaction Log](notes/keyprompts.md): A record of the prompt engineering used to drive development.
+- [📸 Screenshots](screenshots/): Visual demonstrations of the tool in action.
 
 ## Features
 - **Log Parsing**: regex-based parsing of standard Linux `auth.log` files.
@@ -43,7 +44,9 @@ graph LR
 - `src/reporter.py`: Manages output formatting.
 - `src/main.py`: Entry point CLI & AI Integration.
 
-## Usage
+## HOW TO USE 🚀
+
+1. **Clone & Setup**:
 
     git clone https://github.com/AaryanPandey-BIT/AI_Log_Analyzer.git
     cd AI_Log_Analyzer

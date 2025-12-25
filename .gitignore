@@ -8,6 +8,7 @@ __pycache__/
 .pytest_cache/
 *.pyc
 *.log
+!Data/sample_auth.log
 
 # OS
 .DS_Store
