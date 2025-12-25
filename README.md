@@ -47,7 +47,7 @@ graph LR
 ## HOW TO USE 🚀
 
 1. **Clone & Setup**:
-
+    ```bash
     git clone https://github.com/AaryanPandey-BIT/AI_Log_Analyzer.git
     cd AI_Log_Analyzer
     pip install -r requirements.txt
