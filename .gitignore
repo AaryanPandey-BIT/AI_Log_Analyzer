@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Logs & Output
+output/
+debug_logs/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
