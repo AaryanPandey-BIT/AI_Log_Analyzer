@@ -10,6 +10,12 @@ This project was built using an **Agentic Workflow**, serving as a case study in
 - [💬 Interaction Log](notes/keyprompts.md): A record of the prompt engineering used to drive development.
 - [📸 Screenshots](screenshots/): Visual demonstrations of the tool in action.
 
+## 🛠️ Built With
+- **Environment**: **Google Antigravity** - An experimental Agentic IDE that integrates AI directly into the development loop as a collaborative partner.
+- **AI Models**: [Gemini 1.5 Flash](https://deepmind.google/technologies/gemini/) - Utilized for generating the "Smart Summaries" due to its speed and efficiency.
+- **Language**: [Python 3](https://www.python.org/) - Chosen for its rich ecosystem of security and text processing libraries.
+- **Testing**: [Pytest](https://docs.pytest.org/) - Comprehensive unit testing framework used to verify robustness.
+
 ## Features
 - **Log Parsing**: regex-based parsing of standard Linux `auth.log` files.
 - **Risk Analysis**: 
